@@ -20,7 +20,8 @@ cd client
 npm start
 ```
 
-![Dashboard](https://github.com/ryanxwy/graphql-MERN/demo.jpg)
+![Dashboard](https://github.com/ryanxwy/graphql-MERN/blob/main/demo.jpg)
 
 1. pages including: Home, NotFound, Project
-2. call GraphQL queries & mutations to CRUD infos
+2. add InMemoryCache in Apollo Client to improve performance 
+3. call GraphQL queries & mutations to CRUD infos
